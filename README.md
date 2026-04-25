@@ -1,61 +1,148 @@
-![Web Developer Roadmap](http://i.imgur.com/GyvcunJ.png)
+<div align="center">
 
-> Roadmap to becoming a web developer in 2017
+# 🧭 Developer Roadmap Archive
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
+### Frontend, Backend, and DevOps Learning Map
 
-If you think that these can be improved in anyway, please do suggest.
+**A historical web-developer roadmap reference containing visual learning paths for frontend, backend, and DevOps skills. This repository is useful as a learning archive and early-career study planner.**
 
-***
+![Roadmap](https://img.shields.io/badge/Type-Developer%20Roadmap-111111?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Track-Frontend-38BDF8?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Track-Backend-7C3AED?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/Track-DevOps-0F766E?style=for-the-badge)
+![Archive](https://img.shields.io/badge/Status-Historical%20Archive-F59E0B?style=for-the-badge)
 
-<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>We are releasing <a href="http://hugobots.com">Hugobots</a> soon. Make sure to subscribe!</p>
+</div>
 
-***
+---
 
+## ✨ Overview
 
-## 🚀 Introduction
+**developer-roadmap** is a learning-roadmap archive originally focused on helping students understand the different paths into web development.
 
-![](https://i.imgur.com/MWkeM18.png)
+It contains roadmap visuals for:
 
-## 🎨 Front-end Roadmap
+- frontend development
+- backend development
+- DevOps
 
-![](https://i.imgur.com/qx54HvK.png)
+The content is historical, so it should be treated as a reference snapshot rather than a fully current roadmap for modern development.
 
-## 👽 Back-end Roadmap
+---
 
-For the backend, personally I would prefer Node.js and PHP 7 for the full time. Plus, I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
+## 🧭 Table of Contents
 
-![](https://i.imgur.com/jz4xrlQ.png)
+- [Purpose](#-purpose)
+- [Designer’s Perspective](#-designers-perspective)
+- [Roadmap Tracks](#-roadmap-tracks)
+- [How To Use This Repo](#-how-to-use-this-repo)
+- [Modern Learning Notes](#-modern-learning-notes)
+- [Quality Checklist](#-quality-checklist)
+- [Roadmap](#-roadmap)
+- [License](#-license)
 
-## 👷 DevOps Roadmap
+---
 
-![](https://i.imgur.com/z23zTH3.png)
+## 🎯 Purpose
 
-<br>
+The goal of this repo is to give learners a visual overview of the web development landscape.
 
-## 🚦 Wrap Up
+It helps answer:
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+- What should a frontend developer learn?
+- What should a backend developer learn?
+- What does DevOps include?
+- How do different tools and skills connect?
+- What should a beginner explore first?
 
-## ☑ TODO
+---
 
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
+## 🎨 Designer’s Perspective
 
-## 👬 Contribution
+For a designer learning code, a roadmap is useful because it reduces overwhelm.
 
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out to me directly at kamranahmed.se@gmail.com or [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+Instead of seeing development as one giant unknown field, the roadmap breaks it into paths:
 
-## Sponsored By
+- frontend: what users see and interact with
+- backend: data, APIs, server logic
+- DevOps: deployment, infrastructure, reliability
 
-- [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
-- [FancyGrid - JavaScript grid library with charts integration and server communication.](http://fancygrid.com)
+This is especially helpful for product designers who want to collaborate better with developers or become more front-end capable.
 
-## License
+---
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+## 🛤 Roadmap Tracks
+
+| Track | Focus |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, browser APIs, UI frameworks, accessibility |
+| Backend | server-side languages, databases, APIs, authentication, caching |
+| DevOps | Linux, networking, CI/CD, cloud, containers, monitoring |
+
+---
+
+## 🚀 How To Use This Repo
+
+Use this as a high-level guide, not as a strict checklist.
+
+Recommended approach:
+
+1. Pick one path.
+2. Learn the basics first.
+3. Build small projects.
+4. Learn tools only when a project needs them.
+5. Revisit the roadmap after real practice.
+6. Update outdated items with modern alternatives.
+
+---
+
+## 🧠 Modern Learning Notes
+
+Because this roadmap is historical, modern learners should also explore:
+
+- TypeScript
+- React / Vue / Svelte
+- Next.js / Astro
+- accessibility standards
+- responsive design systems
+- GitHub Actions
+- Docker
+- cloud hosting platforms
+- API design
+- security fundamentals
+- testing and CI/CD
+
+---
+
+## ✅ Quality Checklist
+
+- [ ] Treat roadmap images as historical references.
+- [ ] Verify tools before learning deeply.
+- [ ] Build projects instead of only reading maps.
+- [ ] Learn accessibility and performance early.
+- [ ] Keep frontend/backend/DevOps responsibilities clear.
+- [ ] Update this repo if using it as a modern public resource.
+
+---
+
+## 🗺 Roadmap
+
+- Add updated 2026 learning notes.
+- Add links to current official docs.
+- Add beginner-friendly project ideas per track.
+- Add product designer learning path.
+- Add modern frontend and deployment stack recommendations.
+
+---
+
+## 📜 License
+
+Original roadmap content is licensed under **CC BY 4.0**.
+
+---
+
+<div align="center">
+
+A visual learning archive for understanding the web-development landscape.
+
+</div>
