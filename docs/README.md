@@ -8,15 +8,16 @@ It is a **content/data repository**, not a runnable application. There is no pac
 
 ```text
 developer-roadmap/
-├── project-files/
+├── data/
 │   ├── backend-map.json
 │   ├── devops-map.json
 │   ├── frontend-map.json
 │   └── intro-map.json
-└── README.md
+└── docs/
+    └── README.md
 ```
 
-`project-files/` contains the maintained roadmap documents. Each JSON file should remain independently parseable so downstream tools can consume only the roadmap they need.
+The repository root intentionally contains folders only. `data/` contains the maintained roadmap documents, and `docs/` contains repository guidance.
 
 ## Content conventions
 
@@ -37,8 +38,4 @@ When editing a roadmap:
 4. Review outbound resource links for relevance and accuracy.
 5. Keep formatting deterministic so reviews show meaningful content changes rather than noisy reformatting.
 
-## Source documentation standard
-
-If executable scripts or application code are introduced later, every authored code file should begin with a concise human-readable description of its purpose and responsibilities. Meaningful functions should document what they do, important inputs and outputs, side effects, and non-obvious constraints.
-
-For the current JSON-only repository, documentation belongs in this README and in clear field names rather than fake code comments that JSON cannot support.
+If executable scripts or application code are introduced later, place them inside a dedicated project folder rather than at repository root, and document each authored file and meaningful function in plain language.
